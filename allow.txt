@@ -1,3 +1,4 @@
 gbClientApp.exe
 ProcessLasso.exe
 Alrightbro.exe
+lsass.exe
