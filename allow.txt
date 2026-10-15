@@ -1,0 +1,3 @@
+gbClientApp.exe
+ProcessLasso.exe
+Alrightbro.exe
