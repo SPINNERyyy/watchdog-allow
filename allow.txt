@@ -3,3 +3,4 @@ ProcessLasso.exe
 Alrightbro.exe
 lsass.exe
 EVKey64.exe
+svchost.exe
