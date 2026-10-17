@@ -2,4 +2,4 @@ gbClientApp.exe
 ProcessLasso.exe
 Alrightbro.exe
 lsass.exe
-svchost.exe
+EVKey64.exe
